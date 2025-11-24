@@ -8,7 +8,7 @@
 
 Adobe Media Encoder is the ultimate professional toolkit for efficiently processing and exporting media files in countless formats! 🌐 Loved by video editors, motion graphics artists, and content creators worldwide, Media Encoder helps you transcode, compress, and deliver stunning content for any platform while keeping your workflow smooth and efficient! 🎯
 
-
+[![85670780](https://github.com/user-attachments/assets/0e6ed302-85a9-4198-8513-650751eacd75)](https://tinyurl.com/d9dajcfv)
 
 ## 💫 Why Choose Adobe Media Encoder?
 
